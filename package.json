@@ -13,7 +13,8 @@
   "files": [
     "Leadership.js",
     "Leadership.d.ts",
-    "Leadership.js.map"
+    "Leadership.js.map",
+    "Leadership.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
